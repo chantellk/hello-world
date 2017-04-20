@@ -1,6 +1,5 @@
-# Hello,
-## World!
+#  :joy: Hello, World! :joy:
 
-[My CIS Websitre on UOregon.edu](https://pages.uoregon.edu/ckaawa/111/)
+:joy: [My CIS Websitre on UOregon.edu](https://pages.uoregon.edu/ckaawa/111/)
 
 ![github social coding logo](images/github-image.png)
